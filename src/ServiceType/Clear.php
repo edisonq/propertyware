@@ -1,6 +1,6 @@
 <?php
 
-namespace ServiceType;
+namespace Edisonq\Propertyware\ServiceType;
 
 use \WsdlToPhp\PackageBase\AbstractSoapClientBase;
 

@@ -3,6 +3,7 @@
  * Class which returns the class map definition
  * @package
  */
+namespace Edisonq\Propertyware;
 class ClassMap
 {
     /**

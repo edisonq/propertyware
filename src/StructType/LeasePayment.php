@@ -1,6 +1,6 @@
 <?php
 
-namespace StructType;
+namespace Edisonq\Propertyware\StructType;
 
 use \WsdlToPhp\PackageBase\AbstractStructBase;
 
