@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "./src/"
+            "Edisonq\\Propertyware\\": "./src/"
         }
     },
     "license": "Apache-2.0"
