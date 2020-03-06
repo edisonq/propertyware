@@ -1,0 +1,26 @@
+{
+    "name": "edisonq/propertyware",
+    "description": "package for composer",
+    "keywords": ["edisonq","propertyware", "wearegamechangers"],
+    "homepage": "https://www.wearegamechangers.com/",
+    "authors": [
+        {
+            "name": "Edison Quinones",
+            "email": "edisonq@gmail.com",
+            "homepage": "https://edisonq.xyz",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "ext-soap": "^7.4",
+        "ext-mbstring": "^7.4",
+        "wsdltophp/packagebase": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "./src/"
+        }
+    },
+    "license": "Apache License 2.0"
+}
